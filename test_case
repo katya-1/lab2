@@ -1,0 +1,26 @@
+Test Case 1
+Author: Bulgak Katya
+Name:  Checking redirection to main page by click on the logo
+Precondition: Open https://www.tissotwatches.com/en-en/tissot-world
+Steps:
+1.Click on the logo “TISSOT”
+2. Checking section video appeared
+Expected Result: Section video appeared
+
+Test Case 2
+Author: Bulgak Katya
+Name:  Checking redirection to the login page
+Steps:
+1.Click on the Profile Icon
+2. Checking for a button “Sign in” appeared
+Expected Result: button “Sign in” appeared
+
+Test Case 3
+Author: Bulgak Katya
+Name:  Checking search
+Steps:
+1.Click on the Search Icon
+2. Enter “TISSOT PRX POWERMATIC 80”
+	3. Click on the button “Search”
+4. Checking that only models with name “TISSOT PRX POWERMATIC 80” are displayed
+Expected Result: Displayed only models with this name
